@@ -2,12 +2,9 @@
 
 
 ## Introduccion (2 hrs)
-- Que es react?
-- Que es react-native?
-- Instalacion del entorno de desarrollo
-	- nvm
-	- Node
-	- ...
+- [Que es react?](./CH01L01.md)
+- [Que es react-native?](./CH01L02.md)
+- [Instalacion del entorno de desarrollo](CH01L03.md)
 
 ## Mi Primera aplicación (2 hrs)
 - instalar react-native
