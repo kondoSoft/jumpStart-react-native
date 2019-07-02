@@ -2,7 +2,7 @@
 
 Nvm como ya habrás podido imaginar es un manejador de versiones específico para Node. Esto es necesario ya que cada versión de Node es diferente y puede contenter cambios que afecten el funcionamiento de tu programa, asi que es una herramienta fundamental.
 
-Su instalación es muy sencialla, primero revisemos si tenemos instalado curl o wget.
+Su instalación es muy sencilla, primero revisemos si tenemos instalado curl o wget.
 
 Abre tu terminal y escribe `curl -v` si no lo tienes instalado intenta con `wget --version`, ya sea Mac OS o Linux tu equipo debe tener instalado al menos alguno de los dos.
 
