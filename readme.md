@@ -1,14 +1,14 @@
-# CURSO BASICO DE REACT NATIVE
+# CURSO BÁSICO DE REACT NATIVE
 
 
 ## Introduccion (2 hrs)
-- [¿Qué es react?](./CH01L01.md)
-- [¿Qué es react-native?](./CH01L02.md)
+- [¿Qué es ReactJS?](CH01L01.md)
+- [¿Qué es React Native?](CH01L02.md)
 - [Instalación del entorno de desarrollo](CH01L03.md)
 
 ## Mi Primera aplicación (2 hrs)
-- instalar react-native
-- correr mi primera aplicación
+- [Instalación de React Native CLI](CH02L01.md)
+- [Mi Primer aplicación de React Native](CH02L02.md)
 - Ejecutar mi app en Android y IOS
 - Estructura de carpetas
 
