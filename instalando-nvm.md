@@ -1,6 +1,6 @@
 # Node Version Manager
 
-Nvm como ya habras podido imaginar es un manejador de versiones específico para Node. Esto es necesario ya que cada versión de Node es diferente y puede contenter cambios que afecten el funcionamiento de tu programa, asi que es una herramienta fundamental.
+Nvm como ya habrás podido imaginar es un manejador de versiones específico para Node. Esto es necesario ya que cada versión de Node es diferente y puede contenter cambios que afecten el funcionamiento de tu programa, asi que es una herramienta fundamental.
 
 Su instalación es muy sencialla, primero revisemos si tenemos instalado curl o wget.
 
@@ -14,7 +14,7 @@ Dependiendo de cual tengas puedes usar uno de estos comandos.
 
 esto lo que hace es descargarlo y una vez descargado lo ejecuta como un script usando el comado bash nativo de la terminal.
 
-Al terminar asegurate de abrir tu archivo `~/.bash_profile`, `~/.zshrc`, `~/.profile`, or `~/.bashrc` y agregar de ser necesario lo siguiente al final del archivo.
+Al terminar asegurate de abrir tu archivo `~/.bash_profile`, `~/.zshrc`, `~/.profile`, o `~/.bashrc` y agregar de ser necesario lo siguiente al final del archivo.
 
 ```
 export NVM_DIR="${XDG_CONFIG_HOME/:-$HOME/.}nvm"
