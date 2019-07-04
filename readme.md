@@ -10,7 +10,7 @@
 - [Instalación de React Native CLI](CH02L01.md)
 - [Mi Primer aplicación de React Native](CH02L02.md)
 - [Ejecutar mi app en Android y IOS](CH02L03.md)
-- Estructura de carpetas
+- [Estructura de carpetas](CH02L04.md)
 
 ## Construyendo una aplicacion de clima (2 hrs)
 - JSX
